@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Exemplo.Properties {
+namespace Exercicio.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Exemplo.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Exemplo.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Exercicio.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,9 +63,19 @@ namespace Exemplo.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap AAT001_P001_89335_1_m_Divulgacao_1_750x500_1_ {
+        internal static System.Drawing.Bitmap _171364_1_ {
             get {
-                object obj = ResourceManager.GetObject("AAT001-P001-89335-1-m-Divulgacao_1-750x500[1]", resourceCulture);
+                object obj = ResourceManager.GetObject("171364[1]", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _20872204_1_ {
+            get {
+                object obj = ResourceManager.GetObject("20872204[1]", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

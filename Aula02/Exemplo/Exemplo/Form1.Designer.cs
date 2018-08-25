@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmNOME));
             this.lblNOME = new System.Windows.Forms.Label();
             this.tbxNOME = new System.Windows.Forms.TextBox();
             this.btnNOME = new System.Windows.Forms.Button();
@@ -78,7 +77,7 @@
             // 
             // pbxNOME
             // 
-            this.pbxNOME.Image = ((System.Drawing.Image)(resources.GetObject("pbxNOME.Image")));
+            this.pbxNOME.Image = global::Exemplo.Properties.Resources.AAT001_P001_89335_1_m_Divulgacao_1_750x500_1_;
             this.pbxNOME.Location = new System.Drawing.Point(51, 218);
             this.pbxNOME.Name = "pbxNOME";
             this.pbxNOME.Size = new System.Drawing.Size(251, 135);
