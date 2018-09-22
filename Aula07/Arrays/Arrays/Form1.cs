@@ -87,5 +87,10 @@ namespace Arrays
                 label1.Text += "\n";
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
